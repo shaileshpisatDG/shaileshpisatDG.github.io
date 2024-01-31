@@ -147,7 +147,7 @@ body {
   }
 }
 .resume-container {
-  background-color: #7f298c;
+  background-color: #d3ccf4;
   min-height: 100%;
   padding-top: 3.3%;
   overflow: auto;
@@ -164,7 +164,7 @@ body {
   border-right: 1px solid #D2D2D2;
 }
 .resume-container .resume-box .basic-profile .baci-cc {
-  background-color: #7f298c;
+  background-color: #7660d7;
 }
 @media screen and (max-width: 991px) {
   .resume-container .resume-box .basic-profile .baci-cc {
@@ -174,7 +174,7 @@ body {
 .resume-container .resume-box .basic-profile .basic-detail {
   padding: 10px;
   text-align: center;
-  background-color: #7f298c;
+  background-color: #7660d7;
   color: #FFF;
   padding-bottom: 15px;
 }
@@ -210,7 +210,7 @@ body {
   }
 }
 .resume-container .resume-box .detail-profile .nav-item .active {
-  color: #7f298c !important;
+  color: #7660d7 !important;
 }
 .resume-container .resume-box .detail-profile .tab-pane {
   padding: 20px;
@@ -225,7 +225,7 @@ body {
 .resume-container .resume-box .detail-profile .detal-jumbo {
   padding: 20px;
   background-color: #EEEEEE;
-  border-left: 4px solid #7f298c;
+  border-left: 4px solid #7660d7;
   border-radius: 4px;
 }
 .resume-container .resume-box .detail-profile .detal-jumbo h3 {
@@ -279,7 +279,7 @@ body {
 .resume-container .resume-box .detail-profile .jumbo-address {
   padding: 20px 40px;
   background-color: #EEEEEE;
-  border-left: 4px solid #7f298c;
+  border-left: 4px solid #7660d7;
 }
 @media screen and (max-width: 483px) {
   .resume-container .resume-box .detail-profile .jumbo-address {
@@ -316,7 +316,7 @@ body {
 .resume-container .resume-box .detail-profile .service .serv-logo i {
   font-size: 42px;
   margin-top: 22px;
-  color: #7f298c;
+  color: #7660d7;
 }
 @media screen and (max-width: 483px) {
   .resume-container .resume-box .detail-profile .service .serv-logo i {
@@ -337,7 +337,7 @@ body {
 .resume-container .resume-box .detail-profile .service .serv-logo-right i {
   font-size: 42px;
   margin-top: 22px;
-  color: #7f298c;
+  color: #7660d7;
 }
 @media screen and (max-width: 483px) {
   .resume-container .resume-box .detail-profile .service .serv-logo-right i {
